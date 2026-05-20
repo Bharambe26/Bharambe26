@@ -1,34 +1,12 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas+New&size=35&duration=3000&pause=1000&color=18F733&center=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Akash+Bharambe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas+New&size=35&duration=3000&pause=1000&color=18F733&center=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Bharambe!;" />
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Bharambe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Bharambe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharambe26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharambe26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/bharambe-akash-eknath-0a7619200/" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/linkedin.gif" width="52" height="52"/>
-    </a>
-    <a href="https://x.com/AakashBharambe" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/twitter.gif" width="52" height="52" />
-    </a>
-    <a href="mailto:aakashbharambe100@gmail.com" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/gmail.gif" width="52" height="52"/>
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=8411840325" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/whatsapp.gif" width="52" height="52"/>
-    </a>
-    <a href="https://www.instagram.com/_.sonuu._/" target="_blank">
-        <img src="https://github.com/Akash-Bharambe/Akash-Bharambe/blob/main/assets/instagram.gif" width="52" height="52" />
-    </a>
-</p>
-
-
 
 ###
 
@@ -92,7 +70,7 @@ So, you're here to check if I actually know something? Well, here's a bunch of l
 
 ###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akash-Bharambe/Akash-Bharambe/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bharambe26/Bharambe26/output/github-contribution-grid-snake.svg" />
 
 ### 
 
